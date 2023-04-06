@@ -1,6 +1,7 @@
 # SCHOOLEASE SCHOOL MANGEMENT SYSTEM
 
-![overview(v1)](https://user-images.githubusercontent.com/66137046/224280676-6c1de489-e1ac-4301-8188-dcd82164d6d3.jpg)
+![Drawing1(1)](https://user-images.githubusercontent.com/66137046/230343907-6b5840be-be86-444a-9713-4948cf963286.png)
+
 
 
 #docker compose -d up
